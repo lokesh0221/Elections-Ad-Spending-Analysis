@@ -2,13 +2,6 @@
 
 This project analyzes the screen time of users by examining the amount of time spent on different apps, the number of notifications received, and how often apps are opened on a daily basis. The goal is to gain insights into user behavior across different apps.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [License](#license)
 
 ## Introduction
 Screen time analysis refers to the process of evaluating how much time users spend interacting with their devices and various apps. This project demonstrates how to analyze such data using Python, allowing for trends and relationships between screen time, notifications, and app openings to be uncovered.
@@ -20,8 +13,6 @@ The dataset used in this project contains the following features:
 - `Usage (minutes)`: The total number of minutes spent on the app daily.
 - `Notifications`: The number of notifications received from the app each day.
 - `Times Opened`: The number of times the app was opened on the recorded day.
-
-You can download the dataset from the following link: [Screen Time Dataset](#).
 
 ## Installation
 To run this project locally, you'll need to have Python installed. Follow the steps below to set up the project:
@@ -64,9 +55,7 @@ Key insights from the screen time analysis include:
 - **WhatsApp** is frequently opened, particularly on Sundays, with high notification counts.
 - A strong correlation between app openings and notifications was observed, suggesting notifications drive app engagement.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
 ---
 
-Feel free to contribute to this project by forking the repository and submitting pull requests. If you have any questions, reach out in the issues section or via [your contact info].
+
